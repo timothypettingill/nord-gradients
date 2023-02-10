@@ -1,0 +1,190 @@
+{
+  "$schema": "./config.schema.json",
+  "dimensions": [
+    {
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "width": 1080,
+      "height": 2400
+    }
+  ],
+  "angles": [
+    45
+  ],
+  "gradients": [
+    {
+      "from": "nord0",
+      "to": "nord3"
+    },
+    {
+      "from": "nord0",
+      "to": "nord4"
+    },
+    {
+      "from": "nord0",
+      "to": "nord5"
+    },
+    {
+      "from": "nord0",
+      "to": "nord6"
+    },
+    {
+      "from": "nord0",
+      "to": "nord7"
+    },
+    {
+      "from": "nord0",
+      "to": "nord8"
+    },
+    {
+      "from": "nord0",
+      "to": "nord9"
+    },
+    {
+      "from": "nord0",
+      "to": "nord10"
+    },
+    {
+      "from": "nord0",
+      "to": "nord11"
+    },
+    {
+      "from": "nord0",
+      "to": "nord12"
+    },
+    {
+      "from": "nord0",
+      "to": "nord13"
+    },
+    {
+      "from": "nord0",
+      "to": "nord14"
+    },
+    {
+      "from": "nord0",
+      "to": "nord15"
+    },
+    {
+      "from": "nord4",
+      "to": "nord5"
+    },
+    {
+      "from": "nord4",
+      "to": "nord6"
+    },
+    {
+      "from": "nord5",
+      "to": "nord6"
+    },
+    {
+      "from": "nord7",
+      "to": "nord4"
+    },
+    {
+      "from": "nord8",
+      "to": "nord4"
+    },
+    {
+      "from": "nord9",
+      "to": "nord4"
+    },
+    {
+      "from": "nord10",
+      "to": "nord4"
+    },
+    {
+      "from": "nord11",
+      "to": "nord4"
+    },
+    {
+      "from": "nord12",
+      "to": "nord4"
+    },
+    {
+      "from": "nord13",
+      "to": "nord4"
+    },
+    {
+      "from": "nord14",
+      "to": "nord4"
+    },
+    {
+      "from": "nord15",
+      "to": "nord4"
+    },
+    {
+      "from": "nord7",
+      "to": "nord5"
+    },
+    {
+      "from": "nord8",
+      "to": "nord5"
+    },
+    {
+      "from": "nord9",
+      "to": "nord5"
+    },
+    {
+      "from": "nord10",
+      "to": "nord5"
+    },
+    {
+      "from": "nord11",
+      "to": "nord5"
+    },
+    {
+      "from": "nord12",
+      "to": "nord5"
+    },
+    {
+      "from": "nord13",
+      "to": "nord5"
+    },
+    {
+      "from": "nord14",
+      "to": "nord5"
+    },
+    {
+      "from": "nord15",
+      "to": "nord5"
+    },
+    {
+      "from": "nord7",
+      "to": "nord6"
+    },
+    {
+      "from": "nord8",
+      "to": "nord6"
+    },
+    {
+      "from": "nord9",
+      "to": "nord6"
+    },
+    {
+      "from": "nord10",
+      "to": "nord6"
+    },
+    {
+      "from": "nord11",
+      "to": "nord6"
+    },
+    {
+      "from": "nord12",
+      "to": "nord6"
+    },
+    {
+      "from": "nord13",
+      "to": "nord6"
+    },
+    {
+      "from": "nord14",
+      "to": "nord6"
+    },
+    {
+      "from": "nord15",
+      "to": "nord6"
+    }
+  ]
+}

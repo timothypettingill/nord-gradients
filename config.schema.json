@@ -1,0 +1,74 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "type": "object",
+    "properties": {
+        "dimensions": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "width": {
+                        "type": "integer"
+                    },
+                    "height": {
+                        "type": "integer"
+                    }
+                }
+            }
+        },
+        "angles": {
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        },
+        "gradients": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "from": {
+                        "enum": [
+                            "nord0",
+                            "nord1",
+                            "nord2",
+                            "nord3",
+                            "nord4",
+                            "nord5",
+                            "nord6",
+                            "nord7",
+                            "nord8",
+                            "nord9",
+                            "nord10",
+                            "nord11",
+                            "nord12",
+                            "nord13",
+                            "nord14",
+                            "nord15"
+                        ]
+                    },
+                    "to": {
+                        "enum": [
+                            "nord0",
+                            "nord1",
+                            "nord2",
+                            "nord3",
+                            "nord4",
+                            "nord5",
+                            "nord6",
+                            "nord7",
+                            "nord8",
+                            "nord9",
+                            "nord10",
+                            "nord11",
+                            "nord12",
+                            "nord13",
+                            "nord14",
+                            "nord15"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
