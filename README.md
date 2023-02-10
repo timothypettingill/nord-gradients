@@ -4,9 +4,13 @@ A script to generate gradient images using colors from the Nord color palette.
 
 See https://www.nordtheme.com/docs/colors-and-palettes for more information about the Nord color palette.
 
-## Screencast
+## Examples
 
-[![asciicast](https://asciinema.org/a/RsBvyRrXxvjwa0oFwjRd15Xuy.svg)](https://asciinema.org/a/RsBvyRrXxvjwa0oFwjRd15Xuy)
+![nord0 to nord15](./images/128x128/45-degrees/nord0-to-nord15-128x128-45°.png)
+
+![nord8 to nord6](./images/128x128/45-degrees/nord8-to-nord6-128x128-45°.png)
+
+![nord0 to nord3](./images/128x128/45-degrees/nord0-to-nord3-128x128-45°.png)
 
 ## Prerequisites
 
@@ -40,3 +44,7 @@ Run the script to generate the gradients.
 ```sh
 python nord-gradients.py
 ```
+
+## Screencast
+
+[![asciicast](https://asciinema.org/a/RsBvyRrXxvjwa0oFwjRd15Xuy.svg)](https://asciinema.org/a/RsBvyRrXxvjwa0oFwjRd15Xuy)
