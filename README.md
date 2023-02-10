@@ -15,7 +15,7 @@ See https://www.nordtheme.com/docs/colors-and-palettes for more information abou
 ## Prerequisites
 
 - A valid conda-forge distribution installed. See https://github.com/conda-forge/miniforge.
-- An imagemagick compatible OS (e.g. linux-64). See https://anaconda.org/cefca/imagemagick.
+- An imagemagick compatible OS (e.g. linux-64). See https://anaconda.org/conda-forge/imagemagick.
 
 ## Usage
 
